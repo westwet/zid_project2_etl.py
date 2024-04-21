@@ -501,9 +501,9 @@ if __name__ == "__main__":
     # print(EW_LS_pf_df.shape)
 
     # q9
-    print(EW_LS_pf_df)
-    temp = EW_LS_pf_df[EW_LS_pf_df.index.year == 2019]
-    print(temp['ewp_rank_1'].mean())
+    # print(EW_LS_pf_df)
+    # temp = EW_LS_pf_df[EW_LS_pf_df.index.year == 2019]
+    # print(temp['ewp_rank_1'].mean())
     # print(temp.loc[min_index])
 
 
